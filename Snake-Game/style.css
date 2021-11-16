@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-image: url(img/GHDS.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    margin: 7px;
+    text-align: center;
+}
+
+.menu {
+    position: relative;
+    bottom: 200px;
+    margin-left: 20px;
+}
+
+button {
+    font-family: fantasy;
+    font-size: 16px;
+    padding: 7px 30px;
+}
+
+h3 {
+}

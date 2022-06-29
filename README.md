@@ -20,6 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 ## 💻 Projeto
 
-Nesse projeto desenvolvido pela digital innovation one foi criado o jogo da combrinha, para criar o jogo da cobrinha acrescentei um sistema de score que mostra os pontos do jogar, um de record que mostra a maior pontuação do jogador e um botão que iniciar o game.
+Nesse projeto desenvolvido pela digital innovation one foi criado o jogo da combrinha, para criar o jogo da cobrinha acrescentei um sistema de score que mostra os pontos do jogador, um de record que mostra a maior pontuação do jogador e um botão que iniciar o game.
 
 Feito com ♥ https://web.dio.me/users/gustavo1234henrique_gd?tab=projects
